@@ -7,6 +7,8 @@
   <groupId>com.panlijun</groupId>
   <artifactId>data-structure</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <description>这是一段git/rebase的描述</description>
+  <!-- 上面这行rebase时会冲突，本行会保留 -->
 
   <name>data-structure</name>
   <!-- FIXME change it to the project's website -->
